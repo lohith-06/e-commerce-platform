@@ -24,7 +24,7 @@ https://e-commerce-platform-8rbx.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/ssahibsingh/React_E-Commerce
+  git clone https://github.com/lohith-06/e-commerce-platform
 ```
 
 Go to the project directory
@@ -59,9 +59,10 @@ Start the server
 Contributions are always welcome!
 Just raise an issue, we will discuss it.
 
+## For questions or contributions, contact:
 
-## Feedback
+* Your Name – lohithlakkakula06@gmail.com
+* LinkedIn – https://linkedin.com/in/lohith-lakkakula
 
-If you have any feedback, please reach out to me 
 
 
